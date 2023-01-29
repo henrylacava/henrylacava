@@ -1,3 +1,6 @@
+
+🌱 Atualmente aprendendo NodeJS e PHP!
+
 <div>
  <img align="center" height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henrylacava&show_icons=true&theme=default&include_all_commits=true">
   <img align="center", height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henrylacava&layout=deffault&&theme=default">
@@ -8,7 +11,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
 
 ##
