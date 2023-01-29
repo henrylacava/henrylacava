@@ -4,13 +4,13 @@
 <div  align="center"> 
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: lacavahenry@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="email_logo.png">
     </a>
     <a href = "https://www.linkedin.com/in/henry-lacava-de-brito-piunti-96b975246/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="linkedin_logo.png">
     </a>
     <a href = "https://www.instagram.com/henry_lacava/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="instagram_logo.png">
     </a>
 </div>
 
