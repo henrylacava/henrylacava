@@ -1,7 +1,7 @@
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <div  align="center"> 
   <h1 align="center">Redes Sociais</h1>
