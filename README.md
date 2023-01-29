@@ -1,7 +1,7 @@
 <div>
   
-  <img  height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default)"/>
-  <img align="right" height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact)"/>
+  <img  height="180em" width="800em" src="https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default)"/>
+  <img align="right" height="180em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact)"/>
 </div>
  
 <div  align="center"> 
