@@ -1,6 +1,6 @@
 <div>
- <img align="center" height="230" src="https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default">
-  <img align="center", height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact">
+ <img align="center" height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henrylacava&show_icons=true&theme=default&include_all_commits=true">
+  <img align="center", height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henrylacava&layout=deffault&&theme=default">
 </div>
 
 
