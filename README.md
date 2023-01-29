@@ -1,9 +1,8 @@
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default)"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact)"/>
+ <img align="center" height="230" src="https://github-readme-stats.vercel.app/api?username=henrylacava&show_icons=true&theme=default">
+  <img align="center", height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&layout=compact">
 </div>
- <br>
+
 
 <div>
   <a href="https://www.linkedin.com/in/henry-lacava-de-brito-piunti-96b975246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
