@@ -1,5 +1,5 @@
 
-🌱 Atualmente aprendendo NodeJS!
+🌱 Atualmente aprendendo Java!
 
 <div>
  <img align="center" height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henrylacava&show_icons=true&theme=default&include_all_commits=true">
