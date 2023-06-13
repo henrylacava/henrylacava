@@ -8,7 +8,7 @@
 </div>
  
 ## About me
-(PHP | JAVA | Python | JS | HTML | CSS ) 🚀  
+(PHP | Python | JS | HTML | CSS ) 🚀  
 - Computer Science Student
 - Studying to be a full stack developer
 - Always looking to learn and gain new experiences!
