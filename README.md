@@ -10,7 +10,7 @@
 ## About me
 (PHP | Python | JS | HTML | CSS ) 🚀  
 - Computer Science Student
-- Studying to be a full stack developer
+- Studying to be a back-end developer
 - Always looking to learn and gain new experiences!
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&hide=TeX&layout=compact)
