@@ -10,7 +10,7 @@
 ## About me
 ( Laravel | VueJS | PHP ) 🚀  
 - Computer Science Student
-- Studying to be a back-end developer
+- Back-end developer
 - Always looking to learn and gain new experiences!
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylacava&hide=TeX&layout=compact)
